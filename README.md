@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7450AA&center=true&vCenter=true&width=500&lines=I+use+Arch+btw;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7450AA&center=true&vCenter=true&width=500&lines=Teto+world+domination!!;Always+learning+new+things)](https://git.io/typing-svg)
 
 </div>
 
